@@ -1,0 +1,12 @@
+jpaproject\academia\entity\form\AlunoUpdateForm.class
+jpaproject\academia\entity\form\AvaliacaoFisicaUpdateForm.class
+jpaproject\academia\entity\form\MatriculaForm.class
+jpaproject\academia\service\MatriculaService.class
+jpaproject\academia\AcademiaApplication.class
+jpaproject\academia\entity\form\AlunoForm.class
+jpaproject\academia\entity\Aluno.class
+jpaproject\academia\entity\form\AvaliacaoFisicaForm.class
+jpaproject\academia\entity\Matricula.class
+jpaproject\academia\service\AlunoService.class
+jpaproject\academia\entity\AvaliacaoFisica.class
+jpaproject\academia\service\AvaliacaoFisicaService.class
